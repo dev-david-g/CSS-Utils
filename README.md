@@ -1,6 +1,8 @@
-# David_Start_Up
-First update
+# Css Grid Library
+Unambitious CSS Grid Libary
 
-My project, for my future company! 
-The css was writed by me! 
-Sure, only the website.css.
+# 2. How to use?
+Include in your project dependencies.
+
+# 1. How to extend:
+Clone it and open website.css file.
